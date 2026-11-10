@@ -1,5 +1,5 @@
 /**
- * @copyright NHCarrigan
+ * @copyright SpellWare
  * @license Naomi's Public License
  * @author Naomi Carrigan
  */
@@ -102,7 +102,7 @@ const createMediaContainer = (appName: string): Record<string, unknown> => {
     accessory: {
       description: null,
       media:       {
-        url: "https://cdn.nhcarrigan.com/error.jpeg",
+        url: "https://cdn.spellware.dev/error.jpeg",
       },
       spoiler: false,
       type:    11,

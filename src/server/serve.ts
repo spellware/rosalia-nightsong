@@ -33,29 +33,29 @@ const html = `<!DOCTYPE html>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="A basic web server that allows us to pipe logs and errors from our applications into our inbox." />
-    <script src="https://cdn.nhcarrigan.com/headers/index.js" async defer></script>
+    <script src="https://cdn.spellware.dev/headers/index.js" async defer></script>
   </head>
   <body>
     <main>
     <h1>Rosalia Nightsong</h1>
-    <img src="https://cdn.nhcarrigan.com/new-avatars/rosalia-full.png" width="250" alt="Rosalia" />
+    <img src="https://cdn.spellware.dev/new-avatars/rosalia-full.png" width="250" alt="Rosalia" />
     <section>
       <p>A basic web server that allows us to pipe logs and errors from our applications into our inbox.</p>
     </section>
     <section>
         <h2>Links</h2>
         <p>
-            <a href="https://git.nhcarrigan.com/nhcarrigan/rosalia-nightsong">
+            <a href="https://git.spellware.dev/nhcarrigan/rosalia-nightsong">
                 <i class="fa-solid fa-code"></i> Source Code
             </a>
         </p>
         <p>
-            <a href="https://docs.nhcarrigan.com/">
+            <a href="https://docs.spellware.dev/">
                 <i class="fa-solid fa-book"></i> Documentation
             </a>
         </p>
         <p>
-            <a href="https://chat.nhcarrigan.com">
+            <a href="https://chat.spellware.dev">
                 <i class="fa-solid fa-circle-info"></i> Support
             </a>
         </p>

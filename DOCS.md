@@ -220,4 +220,4 @@ Currently, no automated tests are configured. Contributors are encouraged to man
 
 ### Contact
 
-For questions or support, contact through the [Chat Server](http://chat.nhcarrigan.com) or email `contact@nhcarrigan.com`.
+For questions or support, contact through the [Chat Server](http://chat.spellware.dev) or email `contact@nhcarrigan.com`.
